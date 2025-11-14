@@ -1,6 +1,5 @@
-=====================================
-DATASET OVERVIEW
-=====================================
+===== DATASET OVERVIEW =====
+
 Total observations: 51801
 
 Altitude range: 98.0m - 2280.0m
